@@ -29,8 +29,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
-.vs/Kursach_game/v16/.suo
-.vs/Kursach_game/v16/Browse.VC.db
-.vs/ProjectSettings.json
-.vs/slnx.sqlite
-.vs/VSWorkspaceState.json
